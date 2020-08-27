@@ -1,4 +1,6 @@
-## Welcome to Pages
+## Welcome to Tyler's Projects
+
+![Typing_Test](https://github.com/TylerLeCmd/TheProjects/blob/master/images/fullscreen.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/TylerLeCmd/TheProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
